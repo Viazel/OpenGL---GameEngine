@@ -1,0 +1,4 @@
+build/bin
+build/CMakeFiles
+build/libs
+.DS_Store
